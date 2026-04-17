@@ -75,7 +75,7 @@ sudo a2enmod rewrite
 sudo systemctl restart apache2
 
 ## -------- Complete OpenEMR installation via the web-based setup.
- Open your web browser and navigate to http://vmipaddress
+ Web browser was opened and navigated to http://vmipaddress
 
 
  ## The above code is used to describe the process of installing and configuring the OpenEMR on the virtual machines:
